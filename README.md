@@ -1,0 +1,2 @@
+# hasteBin
+Haste bin
